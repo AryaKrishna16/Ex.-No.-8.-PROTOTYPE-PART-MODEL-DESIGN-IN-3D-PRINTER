@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:E Arya Krishna 
+### Register Number: 212225240014
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
