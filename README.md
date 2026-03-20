@@ -46,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Empd Project](https://github.com/user-attachments/assets/3bd9d01c-23d6-4861-859c-e0aa38f0ff92)
+<img width="1919" height="793" alt="Screenshot 2026-03-20 211312" src="https://github.com/user-attachments/assets/51645020-4b8d-494a-82bb-7a4b68618fa2" />
+
 
 ### Name:E Arya Krishna 
 ### Register Number: 212225240014
